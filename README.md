@@ -2,7 +2,7 @@
 
 A full-stack AI application that lets you upload documents and have natural-language conversations with them. Built end-to-end with a custom RAG pipeline — no LangChain, no abstractions hiding the work.
 
-**Live demo:** _add your Vercel URL here_
+**Live demo:** [second-brain-alpha-six.vercel.app](https://second-brain-alpha-six.vercel.app)
 
 ---
 
